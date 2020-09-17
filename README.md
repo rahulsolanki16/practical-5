@@ -1,4 +1,4 @@
-#WAP to sort a list of elements. Give user the option to perform sorting using Insertion sort, Bubble sort or Selection
+#practical-6
 list1 = [5,1,78,3,45,12,4,15,44,34,62,54]
 
 print("List = ",list1)
